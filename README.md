@@ -1,6 +1,6 @@
 # simple_calculator_python
 Python Beginner Projects. 
-Simple Calculator using Python. We have built using with and without Python Functions.
+Simple Calculator using Python. We have built with and without Python Functions.
 
 Python
 Python Functions
